@@ -1,0 +1,21 @@
+{
+
+    "name": "helloscp",
+  
+    "version": "1.0.0",
+  
+    "dependencies": {
+  
+    },
+  
+    "requires":{
+  
+      "engines": {
+  
+          "node": "^16"
+  
+          }
+  
+      }
+  
+  }
